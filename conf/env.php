@@ -1,2 +1,2 @@
 <?php
-define('APP_NEV', 'dev');
+define('APP_NEV', 'prod');
